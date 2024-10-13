@@ -1,0 +1,53 @@
+@media screen and (max-width: 60rem) {
+  .gallery {
+    &__art-card {
+      width: 100%;
+      max-width: 13rem;
+      height: 18rem;
+    }
+  }
+
+  .btn {
+    padding: 0.5rem 1rem;
+    font-size: 0.875rem;
+  }
+}
+
+@media screen and (max-width: 45rem) {
+  h1 {
+    font-size: 1.5rem;
+  }
+
+  .gallery {
+    &__art-card {
+      width: 90%;
+      height: auto;
+      max-width: none;
+      margin: 0 auto;
+    }
+  }
+
+  .btn {
+    padding: 0.5rem;
+    font-size: 0.875rem;
+  }
+}
+
+@media screen and (max-width: 30rem) {
+  h1 {
+    font-size: 1.25rem;
+  }
+
+  .gallery {
+    &__art-card {
+      width: 100%;
+      height: auto;
+    }
+  }
+}
+
+@media (min-width: 5rem) {
+  .btn {
+    padding: 1rem 2.5rem;
+  }
+}

@@ -1,0 +1,36 @@
+.art-detail {
+  max-width: 25.5rem;
+  margin: 2.5rem auto;
+  padding: 1.25rem;
+  background-color: var(--color-white);
+  border-radius: var(--border-radius);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+
+  &__title {
+    font-size: 2rem;
+    color: var(--color-banner);
+    margin-bottom: 1.25rem;
+    font-weight: 600;
+    letter-spacing: 0.05rem;
+    text-transform: uppercase;
+    border-bottom: 0.125rem solid #ddd;
+    padding-bottom: 0.625rem;
+    text-align: initial;
+  }
+
+  &__image {
+    width: 100%;
+    height: auto;
+    border-radius: var(--border-radius);
+  }
+
+  &__artist,
+  &__object-number {
+    margin: 0.625rem 0;
+    font-size: 1.125rem;
+
+    strong {
+      font-weight: bold;
+    }
+  }
+}
