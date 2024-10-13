@@ -3,8 +3,6 @@
 Rijksmuseum shuffle application with three images that interacts with
 an external API to fetch and display data. Built in ReactJS.
 
-Link: [https://golgariet.github.io/image-shuffle-app](https://golgariet.github.io/image-shuffle-app/)
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Usage
@@ -12,6 +10,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 In the project directory, you can run:
 
 ```bash
+npm install
 npm start
 ```
 
