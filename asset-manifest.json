@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Golgariet/image-shuffle-app/static/css/main.aec68bdd.css",
-    "main.js": "/Golgariet/image-shuffle-app/static/js/main.b6bae77a.js",
-    "index.html": "/Golgariet/image-shuffle-app/index.html",
-    "main.aec68bdd.css.map": "/Golgariet/image-shuffle-app/static/css/main.aec68bdd.css.map",
-    "main.b6bae77a.js.map": "/Golgariet/image-shuffle-app/static/js/main.b6bae77a.js.map"
+    "main.css": "/image-shuffle-app/static/css/main.aec68bdd.css",
+    "main.js": "/image-shuffle-app/static/js/main.b6bae77a.js",
+    "index.html": "/image-shuffle-app/index.html",
+    "main.aec68bdd.css.map": "/image-shuffle-app/static/css/main.aec68bdd.css.map",
+    "main.b6bae77a.js.map": "/image-shuffle-app/static/js/main.b6bae77a.js.map"
   },
   "entrypoints": [
     "static/css/main.aec68bdd.css",
